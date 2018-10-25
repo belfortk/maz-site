@@ -224,7 +224,7 @@ functionalLink : String
 functionalLink = "https://www.haskell.org/"
 
 duckLink : String
-duckLink = "https://en.wikipedia.org/wiki/Rubber_duck_debugging"
+duckLink = "http://www.kylebelfort.com"
 
 githubLink : String
 githubLink = "https://github.com/mazuschlag"
@@ -233,7 +233,7 @@ email : String
 emailLink = "mailto: markazuschlag@gmail.com"
 
 linkedInLink : String
-linkedInLink = "https://www.linkedin.com/in/mark-zuschlag/"
+linkedInLink = "https://kylebelfort.com"
 
 imageLink : String
 imageLink = "zuschlag_mark.png"
